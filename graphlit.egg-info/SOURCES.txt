@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+graphlit.egg-info/PKG-INFO
+graphlit.egg-info/SOURCES.txt
+graphlit.egg-info/dependency_links.txt
+graphlit.egg-info/requires.txt
+graphlit.egg-info/top_level.txt
+tests/test_token_creator.py

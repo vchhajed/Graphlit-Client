@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: graphlit
+Version: 0.1
+Summary: A package for creating tokens for Graphlit services
+Home-page: https://github.com/vchhajed/graphlit-client
+Author: Vaibhav Chhajed
+Author-email: vaibhav787845@gmail.com
+License-File: LICENSE
+Requires-Dist: PyJWT
